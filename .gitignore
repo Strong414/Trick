@@ -3,7 +3,7 @@
 *.dfsl1
 *.pfsl
 *.d64fsl
-*.p64fsl
+*.p64fsl1
 *.lx64fsl
 *.lx32fsl
 *.dx64fsl
