@@ -5,6 +5,6 @@
 *.d64fsl
 *.p64fsl1
 *.lx64fsl
-*.lx32fsl
+*.lx32fsl1
 *.dx64fsl
 dwdwd
