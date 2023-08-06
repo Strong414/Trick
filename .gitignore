@@ -1,4 +1,4 @@
-*.FASL1
+$*.FASL1
 *.fasl
 *.dfsl1
 *.pfsl
