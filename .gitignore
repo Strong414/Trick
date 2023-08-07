@@ -1,5 +1,5 @@
 $*.FASL1
-*.fasl
+*.fasl1
 *.dfsl1
 *.pfsl
 *.d64fsl
