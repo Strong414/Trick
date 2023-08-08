@@ -3,7 +3,7 @@ $*.FASL1
 *.dfsl1
 *.pfsl
 *.d64fsl
-*.p64fsl1
+*.p64fsl111
 *.lx64fsl
 *.lx32fsl1
 *.dx64fsl
